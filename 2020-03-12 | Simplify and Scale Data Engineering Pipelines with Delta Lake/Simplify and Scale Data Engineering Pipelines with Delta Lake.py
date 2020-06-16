@@ -1,4 +1,8 @@
 # Databricks notebook source
+asdf
+
+# COMMAND ----------
+
 # MAGIC %md # Simplify and Scale Data Engineering Pipelines with Delta Lake
 # MAGIC 
 # MAGIC Delta Lake: An open-source storage format that brings ACID transactions to Apache Spark™ and big data workloads.
